@@ -56,11 +56,12 @@
             <p>We aim to provide an excellent and consistent service to all our customers through our customer promise. If you aren’t satisfied with any aspect of our service, let us know so we can resolve the matter as quickly as possible.<br><br>The complaints procedure is set out in 3 stages below.</p>
 
             <h1 id="complain">How to complain</h1>
-            <p>You can complain directly to the person you have been dealing with, or their line manager. Complaints are often sorted out immediately this way.<br>
+            <p>You can complain directly to the person you have been dealing with. Complaints are often sorted out
+              immediately this way.<br>
               If you don’t know who to contact, or you have a name but no telephone number, then call our enquiries team on 0300 060 3900.<br>
-              You can also use our online complaints form.<br>
-              Your complaint will be recorded and dealt with by the most appropriate team or person in Natural England.<br>
-              If you’re unhappy with the response you receive at this stage, you can escalate your complaint to the relevant area or team manager.</p>
+
+              The best way You can use our online complaints form.<br>
+              Your complaint will be recorded and dealt with by the most appropriate team or person.<br></p>
 
             <h1 id="next">What happens next</h1>
 
@@ -73,13 +74,13 @@
               We’ll work to deal with your complaint as quickly as possible. If it’s going to take longer, we’ll let you know.</p>
 
               <h1 id="satisfied">If you’re not satisfied</h1>
-              <p>If you are not satisfied, Natural England will appoint a director who will examine your complaint on behalf of our chief executive and contact you to discuss the issue. The response at this stage will be our final response.
+              <p>If you are not satisfied, will appoint a director who will examine your complaint on behalf of our chief executive and contact you to discuss the issue. The response at this stage will be our final response.
               </p>
 
               <h1>Exceptions to this process</h1>
               <p>Appeals against payment and payment recovery decisions are covered by a different process. Please contact the individual named in the original correspondence you received.
                 <br><br>
-              If your complaint relates to an access to information request, please contact the individual named in the original response you received or email foi@naturalengland.org.uk.</p>
+              If your complaint relates to an access to information request, please contact the individual named in the original response you received or email Example@email.com</p>
               <br><br><br>
               <a href="#top">Top</a>
               <br><br><br><br>
