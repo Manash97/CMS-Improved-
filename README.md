@@ -4,7 +4,7 @@
 # OVERVIEW 
 
 
-  <h3>This is the GitHub repository for the Complaint Management System (IMPROVED). This Application is Login based application. Ther are   three type of users in this Application.</h3>
+  <h3>This is the GitHub repository for the Complaint Management System (IMPROVED).<br/><br/> This Application is Login based application. Ther are   three type of users in this Application.</h3>
 
      1 Admin
      2 Engineers
