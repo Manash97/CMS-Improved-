@@ -1,34 +1,53 @@
 
-# COMPLAINT MANAGEMENT SYSTEM
+# Complaint Management System
+## Overview
+>This is the GitHub repository for the Complaint Management System.
 
-# OVERVIEW 
+This Application is Login based application. Ther are three type of users in this Application.
+ * Admin
+ * Engineers
+ * Users
 
+## Getting Started
 
-  <h3>This is the GitHub repository for the Complaint Management System.<br/><br/> This Application is Login based application. Ther are   three type of users in this Application.</h3>
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-     1 Admin
-     2 Engineers
-     3 Users
+### Prerequisites
 
+What things you need to install the software and how to install them
 
-#    TECHNOLOGIES
-    
-      1 HTML5
-      2 CSS3
-      3 Bootstrap 3
-      4 JavaScript
-      5 Jquery
-      6 PHP
+* php
+* phpmyadmin 
 
-#    UI
+```
+     git clone https://github.com/Manashio/Complaint-Management-System.git
+```
 
-      1 Material Design
+### Installing
 
-
-#    DATABASE 
-   
-       1 MySQL
+A step by step series of examples that tell you how to get a development env running
 
 
- 
-     
+
+```
+Give the example
+```
+
+
+
+## Built With
+
+* PHP 
+* HTML
+* CSS
+* Bootstrap 
+* JavaScript
+* Jquery
+
+
+
+
+## Authors
+
+* **Manash Bharali** - *Initial work* - [github.Manashio](https://github.com/Manashio)
+
